@@ -1,9 +1,8 @@
-# Autoparts-Ecommerce-Website - (Individual Course Project)
+# Autoparts-Ecommerce-Website
 
 
 
 
-CS6314.001-Team10-AutoParts-Store.pdf- Explains the complete functioning of the website 
 
 Introduction and Instructions to run: 
 
@@ -28,7 +27,7 @@ For example in this project we will be uploading hashed images url in the folder
 4. The SQL file for the database is provided.
 
 
-5. The Admin email is: sara@gmail.com password: SuperAdmin1 
+5. The Admin email is: avi@gmail.com password: avinash
 
 
 
