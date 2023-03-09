@@ -3,7 +3,7 @@
 
 
 
-CS6314.001-Team10-AutoParts-Store.pdf- Explains the complete functioning of the website 
+
 
 Introduction and Instructions to run: 
 
@@ -28,7 +28,7 @@ For example in this project we will be uploading hashed images url in the folder
 4. The SQL file for the database is provided.
 
 
-5. The Admin email is: sara@gmail.com password: SuperAdmin1 
+5. The Admin email is: avi@gmail.com password: avinash
 
 
 
@@ -40,28 +40,28 @@ USER INTERACTIONS:
 
 Homepage1:
 
-![homepage1.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/home1.png)
+![homepage1.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/home1.png)
 
 
 
 
 Homepage2:
 
-![homepage2.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/home2.png)
+![homepage2.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/home2.png)
 
 
 
 
 Product Details:
 
-![product_details.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/product_details.png) 
+![product_details.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/product_details.png) 
 
 
 
 
 Max Quantity Check:
 
-![max_qty_check.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/max_qty_check.png)
+![max_qty_check.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/max_qty_check.png)
 
 
 
@@ -69,7 +69,7 @@ Max Quantity Check:
 
 Filter by brand:
 
-![filter_by_brand.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/filter_by_brand.png)
+![filter_by_brand.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/filter_by_brand.png)
 
 
 
@@ -77,7 +77,7 @@ Filter by brand:
 
 Filter by Category:
 
-![filter_by_category.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/filter_by_category.png) 
+![filter_by_category.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/filter_by_category.png) 
 
 
 
@@ -85,7 +85,7 @@ Filter by Category:
 
 Sort by price:
 
-![sort_by_price](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/filter_by_price.png)
+![sort_by_price](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/filter_by_price.png)
 
 
 
@@ -93,7 +93,7 @@ Sort by price:
 
 Cart:
 
-![cart_page.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/cart_page.png)
+![cart_page.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/cart_page.png)
 
 
 
@@ -101,7 +101,7 @@ Cart:
 
 Card details:
 
-![card_details.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/card_details.png)
+![card_details.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/card_details.png)
 
 
 
@@ -109,7 +109,7 @@ Card details:
 
 Shipping form:
 
-![shipping_address_form.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/shipping_address_form.png)
+![shipping_address_form.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/shipping_address_form.png)
 
 
 
@@ -117,7 +117,7 @@ Shipping form:
 
 Shipping address verification:
 
-![shipping_details2.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/shipping_details2.png)
+![shipping_details2.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/shipping_details2.png)
 
 
 
@@ -125,7 +125,7 @@ Shipping address verification:
 
 Order confirmation:
 
-![order_placed.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/order_placed.png)
+![order_placed.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/order_placed.png)
 
 
 
@@ -133,7 +133,7 @@ Order confirmation:
 
 Stripe integration:
 
-![stripe_integration.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/stripe_payment.png)
+![stripe_integration.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/stripe_payment.png)
 
 
 
@@ -147,7 +147,7 @@ ADMIN INTERACTIONS:
 
 Admin Login:
 
-![admin_login.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/admin_login.png)
+![admin_login.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/admin_login.png)
 
 
 
@@ -155,7 +155,7 @@ Admin Login:
 
 Admin Dashboard:
 
-![admin_dashboard.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/admin_dashboard.png)
+![admin_dashboard.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/admin_dashboard.png)
 
 
 
@@ -163,7 +163,7 @@ Admin Dashboard:
 
 Users Data Records: 
 
-![user_details.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/user_details.png)
+![user_details.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/user_details.png)
 
 
 
@@ -171,7 +171,7 @@ Users Data Records:
 
 Product Dashboard:
 
-![product_dashboard.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/product_dashboard.png)
+![product_dashboard.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/product_dashboard.png)
 
 
 
@@ -179,7 +179,7 @@ Product Dashboard:
 
 Add brands:
 
-![add_brand.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/add_brand.png) 
+![add_brand.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/add_brand.png) 
 
 
 
@@ -187,7 +187,7 @@ Add brands:
 
 Add Categories:
 
-![add_category.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/add_category.png) 
+![add_category.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/add_category.png) 
 
 
 
@@ -195,7 +195,7 @@ Add Categories:
 
 Add products:
 
-![add_product.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/add_product.png) 
+![add_product.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/add_product.png) 
 
 
 
@@ -203,7 +203,7 @@ Add products:
 
 Archived/Deleted Products - can be restored:
 
-![deleted_products.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/deleted_products.png)
+![deleted_products.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/deleted_products.png)
 
 
 
@@ -211,7 +211,7 @@ Archived/Deleted Products - can be restored:
 
 Edit brands:
 
-![edit_brand.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/edit_brand.png) 
+![edit_brand.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/edit_brand.png) 
 
 
 
@@ -219,7 +219,7 @@ Edit brands:
 
 Edit Categories:
 
-![edit_category.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/edit_category.png) 
+![edit_category.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/edit_category.png) 
 
 
 
@@ -227,7 +227,7 @@ Edit Categories:
 
 Edit products:
 
-![edit_product.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/edit_product.png) 
+![edit_product.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/edit_product.png) 
 
 
 
@@ -235,6 +235,6 @@ Edit products:
 
 Shipping Updates:
 
-![shipping_update.png](https://github.com/Leonid369/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/shipping_update.png)
+![shipping_update.png](https://github.com/MainakRepositor/Autoparts-Ecommerce-Website/blob/master/online_store/screenshots/shipping_update.png)
 
 
